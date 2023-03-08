@@ -18,4 +18,4 @@ http://www.example.com or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/LegaciesofPunk/DIYshow2023/main/labrador-puppy-wearing-a-cowboy-hat-john-daniels.jpg "Yee-Paw")
