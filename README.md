@@ -17,5 +17,4 @@ URLs and URLs in angle brackets will automatically get turned into links.
 http://www.example.com or <http://www.example.com> and sometimes 
 example.com (but not on Github, for example).
 
-Inline-style: 
-![alt text](https://raw.githubusercontent.com/LegaciesofPunk/DIYshow2023/main/labrador-puppy-wearing-a-cowboy-hat-john-daniels.jpg "Yee-Paw")
+[alt text](https://raw.githubusercontent.com/LegaciesofPunk/DIYshow2023/main/labrador-puppy-wearing-a-cowboy-hat-john-daniels.jpg "Yee-Paw")
